@@ -1,7 +1,7 @@
 replicaCount: 1
 image:
   repository: selenium/hub
-  tag: 3.8.1
+  tag: 3.141.59
   pullPolicy: IfNotPresent
 service:
   name: svc-tune-resrouce
